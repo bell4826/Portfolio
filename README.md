@@ -18,7 +18,7 @@
 
 ## :pushpin: Projects
 ### 1. 개인 과제
-><img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c56513d9-bbb6-49cf-8117-4c9ce342fea5" />
+><img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/c56513d9-bbb6-49cf-8117-4c9ce342fea5" />
 >
 >[닷지 게임](https://github.com/Mel0PIE/Dodge-Game)
 >
