@@ -28,7 +28,7 @@
 >[모바일 가상 조이스틱 구현](https://github.com/Mel0PIE/Jump-Jump)
 >
 ><br />
-><img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4e6d4081-8101-402f-911b-1e05b9e664fe" />
+><img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/4e6d4081-8101-402f-911b-1e05b9e664fe" />
 >
 >슈팅 게임
 ><br />
