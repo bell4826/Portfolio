@@ -30,3 +30,6 @@
 ><br />
 >
 >[메모장](https://github.com/Mel0PIE/Memo) [체험해보기](http://52.79.190.183/)
+>
+><br />
+><img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4e6d4081-8101-402f-911b-1e05b9e664fe" />
