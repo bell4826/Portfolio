@@ -12,7 +12,7 @@
 
 ## :pushpin: Contact
 >- 이메일: bell4826@gmail.com
->- 깃헙: https://github.com/Mel0PIE
+>- 깃헙: https://github.com/Bell4826
 
 </br>
 
