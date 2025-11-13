@@ -23,9 +23,10 @@
 >[닷지 게임](https://github.com/Mel0PIE/Dodge-Game)
 >
 ><br />
-><img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0fe0c1de-7366-48a3-8731-12cac83587c8" />
+><img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/0fe0c1de-7366-48a3-8731-12cac83587c8" />
 >
 >[모바일 가상 조이스틱 구현](https://github.com/Mel0PIE/Jump-Jump)
 >
+><br />
 >[메모장](https://github.com/Mel0PIE/Memo)
 >[체험해보기](http://52.79.190.183/)
